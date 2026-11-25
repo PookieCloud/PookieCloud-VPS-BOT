@@ -24,4 +24,5 @@ apt update && apt install git -y
 git clone https://github.com/PookieCloud/PookieCloud-VPS-BOT.git
 cd PookieCloud-VPS-BOT
 chmod +x install.sh
-sudo ./install.sh```
+sudo ./install.sh
+```

@@ -25,6 +25,8 @@ cd PookieCloud-VPS-BOT
 chmod +x install.sh
 sudo ./install.sh```
 
+
+
 Then follow the prompts:
 
 Choose your OS (1 Ubuntu / 2 Debian)

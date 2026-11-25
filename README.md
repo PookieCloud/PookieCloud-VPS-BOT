@@ -19,7 +19,8 @@ In the Developer Portal → Bot tab, enable all three Privileged Gateway Intents
 
 Run these commands as root on your VPS:
 
-```apt update && apt install git -y
+```
+apt update && apt install git -y
 git clone https://github.com/PookieCloud/PookieCloud-VPS-BOT.git
 cd PookieCloud-VPS-BOT
 chmod +x install.sh

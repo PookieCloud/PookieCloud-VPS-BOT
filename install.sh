@@ -43,7 +43,7 @@ banner() {
     rainbow_line '| _ \ (_) || |   | |__ >  < (__  | _|| |) | |  | |  | | (_) | .` |'
     rainbow_line '|___/\___/ |_|   |____/_/\_\___| |___|___/___| |_| |___\___/|_|\_|'
     echo ""
-    rainbow_line '                    ~ Made by WHITIGER ~'
+    rainbow_line '                    ~ Made by SHIFA ~'
     echo ""
 }
 
@@ -53,7 +53,7 @@ banner() {
     echo -e "${WHT}  ─────────────────────────────────────────────────────────────${NC}"
     echo -e "  ${CYN}Fully Automated LXC/LXD VPS Discord Bot Installer${NC}"
     echo -e "  ${CYN}Ubuntu & Debian supported | Fast setup${NC}"
-    echo -e "  ${MAG}Made by WHITIGER${NC}  |  ${BLU}github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME${NC}"
+    echo -e "  ${MAG}Made by SHIFA${NC}  |  ${BLU}github.com/PookieCloud/PookieCloud-VPS-BOT${NC}"
     echo -e "${WHT}  ─────────────────────────────────────────────────────────────${NC}\n"
 }
 
